@@ -1,0 +1,33 @@
+1- Emmet   for sulime text : peremite, por ejemplo: 
+!+ tab = código html
+li*5 + tab = li
+div + tab = div  ... esto para todas las etiquetas.
+Para que ande debe estar guardado como .html o puesta la sintaxis en html.
+
+2- AdvancedNewFile
+ctrl+alt+n = se abre un ventanita si ahí escribo "hojas/hoja.php" y doy enter me crea una carpeta "hojas" y dentro de esta un archivo "hoja.php".
+
+3- AutoFileName
+Permite llamar más rápido a nombres de archivos (como predictivo).
+
+4- Alignment
+Permite con ctrl apretado y clic al comienzo varios reglones (pone el cursor en todos esos reglones), luego con ctrl+alt+a tabula encolumnados en linea
+
+5- BracketHighlighter
+Permite tener la visualización de dónde comienza y dónde termina una etiqueta, dónde abre y cierra llave de una función, etc. Lo marca en el borde izquierdo (dónde están los números de fila).  
+
+6- HTML Nest Comments
+Premite comentar en bloque un texto html, debo seleccionar el texto y luego ctrl + shift + }
+
+7- Comment-Snippets
+Permite crear comentarios en en cualquier archivo.
+Por ejemplo, en .css 
+ a- Pongo la palabra "comm" (sin comillas) luego la selecciono y toco tab (esto crea un cementario en bloque)
+ b- Pongo "comm-section" (sin comillas) luego la selecciono y toco tab (esto crea 2 secciones cementarios en bloque) 
+ c- Para HTML se agrega esa palabra:  "comm-html" y "comm-html-section", selecionar y tab.
+
+8- ColorPicker
+   Cuando quiero elegir un color, por ejemplo en css, con Ctrl+shift+c se abre la paleta de colores. 
+
+9- Console Wrap for JS o Console Wrap
+  Es para JS, seleccionando una variable y Ctrl+shift+q me crea un console.log para mostrar el valor, para la variable x (var x) sería console.log('x',x);
